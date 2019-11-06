@@ -1,7 +1,8 @@
 #T11_G02 
 
 ## About
-First year term project in Java for CPSC 233.
+First year term project in Java for CPSC 233. 
+
 A prisoner is put in jail with one goal: to escape. During their journey, they must find essential tools (crowbars, spoons, etc.), gain enough strength by collecting food items and solve puzzles all without running into guards. Once all essentials are collected and puzzles are solved, the prisoner is free to leave and wins the game. However, if the prisoner runs into a guard they lose all their essential items and are forced to restart back from the beginning. Player is controlled with WASD keys on keyboard.
 
 
