@@ -18,9 +18,8 @@ TO PLAY THE GAME
 
 TO PLAY THE TEXTAPP
 1. Open your terminal and redirect to TextApp folder. 
-2. Type in "javac Player.java" to compile.
-3. Type in "javac TextApp.java" to compile.
-4. Type in "java TextApp" in terminal to run TextApp.
+2. Type in "javac *.java" to compile.
+3. Type in "java TextApp" in terminal to run TextApp.
 
 TO TEST PLAYER CLASS
 1. Open your terminal and redirect to Player_Test folder. 
